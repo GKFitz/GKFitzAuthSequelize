@@ -8,6 +8,8 @@ This is an example of user authentication with a sequelize database. In order to
 License: MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ##Screenshot
+![image](https://user-images.githubusercontent.com/73301331/113661061-6a137e80-9673-11eb-95fd-f09b303003a5.png)
+
 
 
 ## Table of Contents
